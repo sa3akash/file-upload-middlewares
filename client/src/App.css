@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+form{
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+  gap: 15px;
+}
+
+form input{
+  font-size: 22px;
+  padding: 10px;
+}
